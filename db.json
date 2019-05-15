@@ -1,6 +1,5 @@
 {
-  "header": {...},
-  "body": {
+    "body": {
     "footer": 186,
     "message": {
       "type": "GPSMessage",
